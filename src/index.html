@@ -4,11 +4,33 @@
   </head>
   <body>
     <div class="container">
-      <div class="grow-buttons">
-        <button class="btn-success" id="feed">Add soil</button>
+      <h1>Battle of the plants!</h1>
+      <div class="row">
+        <div class="col">
+          <img src="https://lh3.googleusercontent.com/proxy/ggvyi9g16G8AmIf9NSHQQyxbVKBSPlEeppSo7ln8bcF1KK5oawB_jWTmVoKII4VojMVqmlTX69f_6Kxvjt6kGQvjprVljyY" height="300" alt="cactus">
+          <h2 id="cactus-name"></h2>
+          <div class="grow-buttons" id="cactus-powers">
+            <button class="btn-success" id="feed">Add soil</button>
+            <button class="btn-success" id="hydrate">Add water</button>
+            <button class="btn-success" id="superLight">Add light</button>
+          </div>
+          <h3><div id="cactus-soil"></div></h3>
+          <h3><div id="cactus-water"></div></h3>
+          <h3><div id="cactus-light"></div></h3>
+        </div>
+        <div class="col">
+          <img src="https://media.istockphoto.com/vectors/nepenthes-plant-cartoon-illustration-vector-id545559032?k=20&m=545559032&s=612x612&w=0&h=_Im2yx7-GwHxgiFJ8q9n1u4TRQFanzlEjEIVZYuS8uA=" height="300" alt="pitcherplant">
+          <h2 id="pitcher-name"></h2>
+          <div class="grow-buttons" id="pitcher-powers">
+            <button class="btn-success" id="superFeed">Add soil</button>
+            <button class="btn-success" id="superHydrate">Add water</button>
+            <button class="btn-success" id="light">Add light</button>
+          </div>
+          <h3><div id="pitcher-soil"></div></h3>
+          <h3><div id="pitcher-water"></div></h3>
+          <h3><div id="pitcher-light"></div></h3>
+        </div>
       </div>
-      <h1>Your Plant's Values</h1>
-      <h3><div id="soil-value">0</div></h3>
     </div>
   </body>
 </html>
