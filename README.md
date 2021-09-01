@@ -2,7 +2,7 @@
 
 #### Application for growing plants
 
-#### By Araceli Valdovinos
+#### By Araceli Valdovinos & Ben Pawlik
 
 ## Technologies/Tools Used
 
@@ -38,4 +38,4 @@ _View in browser:_
 ## License
 
 ## Contact Information
-_Araceli Valdovinos valdovinosaraceli50@gmail.com_
+_Araceli Valdovinos valdovinosaraceli50@gmail.com, James Benjamin Pawlik james.benjamin.pawlik@gmail.com _
