@@ -21,14 +21,14 @@ _Follow along with the homework to build an application for growing plants. Make
 
 ## Setup/Installation Requirements
 
-* _Clone repo:_
-* * _Clone the repository to desktop using `git clone` in terminal_
-* * _Navigate inside the folder and run `npm install` to download dependencies_
-* * _Open clone folder in text editor of your choice_
-* _Execute tests:_
-* * _Run `npm run test` in terminal/command line_
-* _View in browser:_
-* * _Run `npm run start` start in terminal/command line
+_Clone repo:_
+* _Clone the repository to desktop using `git clone` in terminal_
+* _Navigate inside the folder and run `npm install` to download dependencies_
+* _Open clone folder in text editor of your choice_
+_Execute tests:_
+* _Run `npm run test` in terminal/command line_
+_View in browser:_
+* _Run `npm run start` start in terminal/command line_
 
 ## Known Bugs
 
