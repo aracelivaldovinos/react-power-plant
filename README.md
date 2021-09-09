@@ -38,4 +38,4 @@ _View in browser:_
 ## License
 
 ## Contact Information
-_Araceli Valdovinos valdovinosaraceli50@gmail.com, James Benjamin Pawlik james.benjamin.pawlik@gmail.com _
+_Araceli Valdovinos valdovinosaraceli50@gmail.com, James Benjamin Pawlik james.benjamin.pawlik@gmail.com_
