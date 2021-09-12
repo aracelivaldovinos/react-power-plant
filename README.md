@@ -36,6 +36,7 @@ _View in browser:_
 * _should go here_
 
 ## License
+_[MIT](https://opensource.org/licenses/MIT) (c) 2021 Araceli Valdovinos_
 
 ## Contact Information
 _Araceli Valdovinos valdovinosaraceli50@gmail.com, James Benjamin Pawlik james.benjamin.pawlik@gmail.com_
